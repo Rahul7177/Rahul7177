@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0FF7C7&width=700&lines=Hi%2C+I'm+Rahul+Raj!;Full+Stack%26+Web+Developer;Impact+Driven+Product+Creator;Welcome+to+my+GitHub+Dashboard!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0FF7C7&width=700&center=true&lines=Hi%2C+I'm+Rahul+Raj!;Full+Stack+Web+Developer;Impact+Driven+Product+Creator;Welcome+to+my+GitHub+Dashboard!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Rahul7177/Rahul7177/blob/main/assets/dashboard-hero.gif" alt="dashboard animation" width="60%" />
+  <img src="./assets/dashboard-hero.gif" alt="dashboard animation" width="60%" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
       <b>Top Languages</b>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul7177&theme=radical" /><br>
+      <img src="https://streak-stats.demolab.com/?user=Rahul7177&theme=radical" /><br>
       <b>Current Streak</b>
     </td>
   </tr>
@@ -70,17 +70,9 @@
 ## ⚡ Fun Facts & Motto
 
 - 💡 I love making products that help real people and create social impact.
-- ✨ “The best way to predict the future is to invent it.”
-- 🛠️ Always exploring new tech and hackathon challenges!
-
----
-
-<div align="center">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/art/header-animated.svg" width="70%" />
-</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul7177&style=for-the-badge&color=0FF7C7" alt="profile views" />
+  <img src="./assets/dashboard-header.svg" width="70%" />
 </p>
