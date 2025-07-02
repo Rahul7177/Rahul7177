@@ -70,9 +70,11 @@
 ## ⚡ Fun Facts & Motto
 
 - 💡 I love making products that help real people and create social impact.
+- ✨ “The best way to predict the future is to invent it.”
+- 🛠️ Always exploring new tech and hackathon challenges!
 
 ---
 
 <p align="center">
-  <img src="./assets/dashboard-header.svg" width="70%" />
+  <img src="https://komarev.com/ghpvc/?username=Rahul7177&style=for-the-badge&color=0FF7C7" alt="profile views" />
 </p>
